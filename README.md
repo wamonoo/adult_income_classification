@@ -1,4 +1,4 @@
-# US Census Adult Income Llassification
+# Predict whether income of adults in the US exceeds $50K / yr using census data.
 
 This project utilizes MLlib, Apache Spark's scalable machine learning library to perform binary classification using a range of models on US census data. The aim is to predict the income class of individuals, i.e. if an individual earns <=50K or >50k a year given some specific socio-economic variables.
 
