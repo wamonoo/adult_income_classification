@@ -22,14 +22,11 @@ relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried
 
 race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black
 
-sex: Female, Male
-
-capital-gain: continuous
-
-capital-loss: continuous
-
-hours-per-week: continuous
+sex: Female, Male , capital-gain: continuous, capital-loss: continuous, hours-per-week: continuous
 
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany...
 
 Income: <=50K, >50K
+
+If github is unable to render the notebook as this happens sometimes, kindly use the link below to get an nbviewer static version
+https://nbviewer.jupyter.org/github/wamonoo/adult_income_classification/blob/master/Binary_classification_proj.ipynb
